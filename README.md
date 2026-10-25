@@ -87,4 +87,4 @@ I update this prompt as I learn what works. See [`CHANGELOG.md`](CHANGELOG.md). 
 Free to use, share and adapt, including commercially, with credit, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The full legal code is in [`LICENSE`](LICENSE), and [`NOTICE.md`](NOTICE.md) shows how to credit this project. Only I can edit this repository. To make your own version, copy the prompt or fork the repository, credit the original and say what you changed.
 
 ---
-Made by **Abuhurairah Rahman Pathan**, MSc Bioinformatics, University of Liverpool · [LinkedIn](https://www.linkedin.com/in/pathan-abuhurairah-rahman-1997-khan) · [GitHub](https://github.com/Abu1997-Pathan)
+Made by **Abuhurairah Rahman Pathan**, MSc Bioinformatics, University of Liverpool · [LinkedIn](https://www.linkedin.com/in/pathan-abuhurairah-rahman-1997-khan) · [GitHub](https://github.com/abuhurairahkhan1997-wq)

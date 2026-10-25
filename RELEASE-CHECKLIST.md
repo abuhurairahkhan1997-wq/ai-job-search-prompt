@@ -3,7 +3,7 @@
 Tick each item before you announce the release. Times are rough.
 
 ## A. Upload the files to GitHub (15 min)
-Repository: `github.com/Abu1997-Pathan/ai-job-search-prompt`. Use exactly these file names:
+Repository: `github.com/abuhurairahkhan1997-wq/ai-job-search-prompt`. Use exactly these file names:
 - [ ] `README.md`
 - [ ] `master-job-search-prompt.md`
 - [ ] `quick-template-prompt.md`
