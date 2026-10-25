@@ -1,5 +1,12 @@
 # AI Career Search Prompt: jobs, PhDs and every kind of opportunity
 
+![Status: Free Public Beta](https://img.shields.io/badge/status-Free%20Public%20Beta-orange)
+![Version 2.3](https://img.shields.io/badge/version-2.3-0f766e)
+![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-blue)
+![Tests: 19/19 simulated, 2/2 live (Claude)](https://img.shields.io/badge/tests-19%2F19%20simulated%20%C2%B7%202%2F2%20live%20(Claude)-brightgreen)
+
+**[⬇️ Get the prompt](master-job-search-prompt.md)** · **[📘 Beginner's guide (PDF)](AI_Career_Search_Prompt_Beginners_Guide.pdf)** · **[🧪 Test results](TESTING.md)** · **[📝 Changelog](CHANGELOG.md)**
+
 > **PUBLIC BETA · Version 2.3.** It is designed to check every opportunity it suggests, but AI assistants can still make mistakes. Always open the link yourself before you apply.
 
 A free, copy-and-paste prompt for **anyone, anywhere in the world**, at any stage of their career. Paste it into an AI assistant (Claude, ChatGPT, Gemini, Copilot, DeepSeek, Grok and others) and it becomes an honest career coach that is designed to:
@@ -75,6 +82,8 @@ New to this? Read the 13-slide [visual guide (PDF)](AI_Job_and_PhD_Search_Prompt
 | `master-job-search-prompt.md` | The full prompt (start here) |
 | `quick-template-prompt.md` | Shorter fill-in version |
 | `AI_Job_and_PhD_Search_Prompt_Guide.pdf` | 13-slide visual guide |
+| `AI_Career_Search_Prompt_Beginners_Guide.pdf` / `.pptx` | Step-by-step beginner's guide (with speaker notes in the PowerPoint) |
+| `tests/` | Test scenarios and the raw results behind TESTING.md |
 | `TESTING.md` | Tests anyone can run, and the results log |
 | `CHANGELOG.md` | What changed in each version |
 | `LICENSE` | Full CC BY 4.0 legal code |
@@ -82,6 +91,18 @@ New to this? Read the 13-slide [visual guide (PDF)](AI_Job_and_PhD_Search_Prompt
 
 ## Updates and feedback
 I update this prompt as I learn what works. See [`CHANGELOG.md`](CHANGELOG.md). Click **Watch** or **Star** to follow changes. If a test fails or something goes wrong, open an issue and say which assistant you used (please don't include personal data).
+
+## About the author
+I'm **Abuhurairah Rahman Pathan**, an MSc Bioinformatics graduate (University of Liverpool) with a background in medical biotechnology and clinical laboratory work. This is my first public AI project. My earlier portfolio work is in Power BI, SQL, Excel and Python.
+
+**What this project shows:**
+- **Prompt engineering:** a multi-stage prompt with commands, structured outputs and safety rules that work across different AI assistants
+- **Evaluation and testing:** 26 test scenarios, a SIMULATION ONLY test mode, and recorded results checked against live sources
+- **Research and accuracy:** UK visa sponsorship rules, UKRI and EU PhD funding, and scholarship conditions, checked against official sources
+- **Responsible AI:** privacy by design, protections for under-18s, scam detection and honest "public beta" labelling
+- **Documentation and open source:** README, changelog, CC BY 4.0 licensing, versioned releases and beginner-friendly guides
+
+I'm open to roles in bioinformatics, life-science data, health data analysis and AI. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/pathan-abuhurairah-rahman-1997-khan).
 
 ## Licence
 Free to use, share and adapt, including commercially, with credit, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The full legal code is in [`LICENSE`](LICENSE), and [`NOTICE.md`](NOTICE.md) shows how to credit this project. Only I can edit this repository. To make your own version, copy the prompt or fork the repository, credit the original and say what you changed.
